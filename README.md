@@ -1,0 +1,1 @@
+This repository contains a reproduction of an uncommon error encountered when building Android projects using the Expo CLI. The error manifests inconsistently, making it challenging to debug. The provided code snippets illustrate the problematic aspects and a solution to resolve the issue.  The issue is primarily focused on Android and may not be relevant to iOS builds.
